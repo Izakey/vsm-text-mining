@@ -1,2 +1,2 @@
 # corn-vsm
-Some C programs I wrote lately
+C programs on the VSM
