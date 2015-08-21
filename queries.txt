@@ -1,0 +1,530 @@
+.I  1
+.B
+60 year old menopausal woman without hormone replacement therapy
+.W
+Are there adverse effects on lipids when progesterone is given with estrogen replacement therapy
+.I  2
+.B
+60 yo male with disseminated intravascular coagulation
+.W
+pathophysiology and treatment of disseminated intravascular coagulation
+.I  3
+.B
+prolonged prothrombin time
+.W
+anticardiolipin and lupus anticoagulants, pathophysiology, epidemiology, complications
+.I  4
+.B
+88 yo with subdural
+.W
+reviews on subdurals in elderly
+.I  5
+.B
+58 yo with cancer and hypercalcemia
+.W
+effectiveness of etidronate in treating hypercalcemia of malignancy
+.I  6
+.B
+55 yo female,postmenopausal
+.W
+does estrogen replacement therapy cause breast cancer
+.I  7
+.B
+45 year old woman with toxic chemical exposure
+.W
+changes seen of head mri after toxic exposure
+.I  8
+.B
+50 yo man with hypertension and horseshoe kidney
+.W
+work-up of hypertension in patient with horseshoe kidney
+.I  9
+.B
+30 year old with fever, lymphadenopathy, neurologic changes and rash
+.W
+t-cell lyphoma associated with autoimmune sypmtoms
+.I  10
+.B
+57yo male with hypercalcemia secondary to carcinoma
+.W
+effectiveness of gallium therapy for hypercalcemia
+.I  11
+.B
+diabetic with multiple emboli
+.W
+review article on cholesterol emboli
+.I  12
+.B
+30 y old female suvivor of satanic cult
+.W
+descriptions of injuries associated with cult activities
+.I  13
+.B
+young wf with lactase deficiency
+.W
+lactase deficiency therapy options
+.I  14
+.B
+35 y o male with aids and pancytopenia
+.W
+pancytopenia in aids, workup and etiology
+.I  15
+.B
+68 y.o. m. with adult-onset diabetes mellitus noted to have thrombocytosis
+.W
+thrombocytosis, treatment and diagnosis
+.I  16
+.B
+chronic fatigue syndrome
+.W
+chronic fatigue syndrome, managment and treatment
+.I  17
+.B
+29 yo female 3 months pregnant
+.W
+Rh isoimmunization, review topics
+.I  18
+.B
+endocarditis
+.W
+endocarditis, duration of antimicrobial therapy
+.I  19
+.B
+18 yo pregnant woman with hyperthroidism
+.W
+use of beta-blockers for thyrotoxicosis during pregnancy
+.I  20
+.B
+cerebral palsy  with depression
+.W
+relationship of cerebral palsy and depression
+.I  21
+.B
+51 yr old female with hypertension
+.W
+secondary hypertension, recent strategy for workup
+.I  22
+.B
+35 yo with advanced metastatic breast cancer
+.W
+chemotherapy advanced for advanced metastatic breast cancer
+.I  23
+.B
+65 yo woman with spontaneous unilateral galactorrhea
+.W
+spontaneous unilateral galactorrhea, differential diagnosis and workup
+.I  24
+.B
+prozac and liver disease
+.W
+relationship between prozac and liver disease
+.I  25
+.B
+49 yo B male with hypotension, hypokalemia, and low aldosterone.
+.W
+isolated hypoaldosteronism, syndromes where hypoaldosteronism and hypokalemia occur concurrently
+.I  26
+.B
+sicca syndrome
+.W
+pathophysiology and etiology of stevens-johnson syndrome
+.I  27
+.B
+37 yr old man with sickle cell disease
+.W
+sickle cell disease, treatment  advice
+.I  28
+.B
+COMMUNITY IN NICARAGUA
+.W
+MEBENDOLE FREQUENCY OF ADMINISTRATION TO PREVENT MALNUTRITIION
+.I  29
+.B
+24 y o female g1 p0 9 months pregnant with thrombocytopenia
+.W
+thrombocytopenia in pregnancy, etiology and management
+.I  30
+.B
+63 y o male with acute renal failure probably 2nd to aminoglycosides/contrast dye
+.W
+acute tubular necrosis due to aminoglycosides, contrast dye, outcome and treatment
+.I  31
+.B
+45 yo wf , chronic lower extremity pain
+.W
+chronic pain management, review article, use of tricyclic antidepressants
+.I  32
+.B
+40 y o male with cocaine withdrawal
+.W
+cocaine withdrawal management
+.I  33
+.B
+67 yo wm with hemiballismus
+.W
+carotid endarterectomy, when to perform
+.I  34
+.B
+adult respiratory distress syndrome
+.W
+review article on adult respiratory syndrome
+.I  35
+.B
+42 YO WITH HEPATOCELLULAR CARCINOMA
+.W
+RISK FACTORS and TREATMENT for HEPATOCELLULAR CARCINOMA
+.I  36
+.B
+39 Y O FEMALE WITH ISOLATED INCREASED SERUM GGT LEVEL ON DILANTIN,PHENOBARBITAL
+.W
+CAN DILANTIN or PHENOBARBITAL CAUSE ISOLOATED INCREASED SERUM GGT
+.I  37
+.B
+FATIGUE
+.W
+FIBROMYALGIA/FIBROSITIS, DIAGNOSIS AND TREATMENT 
+.I  38
+.B
+DIABETIC GASTROPARESIS
+.W
+DIABETIC GASTROPARESIS, TREATMENT
+.I  39
+.B
+35 Y O WITH GASTROENTERITIS
+.W
+VIRAL GASTROENTERITIS, CURRENT MANAGEMENT
+.I  40
+.B
+77 YO MALE WITH ESOPHAGEAL CANCER AND PERICARDIAL EFFUSION
+.W
+best treatment 0F MALIGNANT PERICARDIAL EFFUSION in ESOPHAGEAL CANCER
+.I  41
+.B
+46 Y0 NEW ASCITES
+.W
+ASCITES, DIFFERENTIAL diagnosis and work-up
+.I  42
+.B
+31yo female with downs syndrome
+.W
+keratoconus, treatment options
+.I  43
+.B
+55 yo male with back pain
+.W
+back pain, information on diagnosis and treatment
+.I  44
+.B
+74 yo male with pericardial effusion. hx of distal esophageal squamous cell carcinoma treated with 5-fluorouracil,cisplatinum, and radiation therapy
+.W
+can radiation therapy cause a delayed pericardial effusion?
+.I  45
+.B
+70 y. o. m. who presented with pancytopenia
+.W
+acute megakaryocytic leukemia, treatment and prognosis
+.I  46
+.B
+64 yo black male
+.W
+occult blood sceening, need for routine screening
+.I  47
+.B
+65 yo female with urinary retention
+.W
+urinary retention, differential diagnosis
+.I  48
+.B
+35 year old with peripheral neuropathy and edema
+.W
+which peripheral neuropathies have associated edema
+.I  49
+.B
+71 m coronary artery disease on florinef
+.W
+florinef and coronary artery disease, any indications
+.I  50
+.B
+62 year old with stroke and systolic hypertension
+.W
+isolated systolic hypertension, shep study
+.I  51
+.B
+75 year old with diabetes and hypertension with Q waves on EKG
+.W
+differential diagnosis of U waves
+.I  52
+.B
+74 yo man with post-radiation pericardial effusion and near tamponade
+.W
+indications for and success of pericardial windows and pericardectomies
+.I  53
+.B
+18 y o female with lupus nephritis and thrombotic thrombocyotepnic purpura
+.W
+lupus nephritis, diagnosis and management
+.I  54
+.B
+older male
+.W
+angiotensin converting enzyme inhibitors, review article
+.I  55
+.B
+24 y. o. w. f. s/p DVT currently on coumadin
+.W
+course of anticoagulation with coumadin
+.I  56
+.B
+rapid cycling bipolar disorder
+.W
+treatment of hypothyroidism in rapid cycling bipolar disorder
+.I  57
+.B
+22 yo with fever, leukocytosis, increased intracranial pressure, and central herniation
+.W
+cerebral edema secondary to infection, diagnosis and treatment
+.I  58
+.B
+65 yo female with a breast mass
+.W
+diagnostic and therapeutic work up of breast mass
+.I  59
+.B
+20 yo male with elevated liver function tests and possible neurofibromatosis
+.W
+hepatobiliary lesions associated with neurofibromatosis
+.I  60
+.B
+28 yr old male with endocarditis
+.W
+treatment of endocarditis with oral antibiotics
+.I  61
+.B
+patient with cirrhosis
+.W
+transjugular splenic shunt, outcome
+.I  62
+.B
+26 y o female with bulimia
+.W
+evaluation for complications and management of bulimia
+.I  63
+.B
+migraine
+.W
+treatment of migraine headaches with beta blockers and calcium channel blockers
+.I  64
+.B
+30 y o with hypothermia
+.W
+prevention, risk factors, pathophysiology of hypothermia
+.I  65
+.B
+66 yo man with 5 yr h/o progressive weakness
+.W
+chronic inflammatory demyelinating polyneuropathy, differential diagnosis and criteria
+.I  66
+.B
+35 female with pickwickian syndrome
+.W
+complications of prolonged progesterone
+.I  67
+.B
+27 year old diabetic
+.W
+outpatient management of diabetes, standard management of diabetics and any new management techniques
+.I  68
+.B
+lupus and brigh red blood per rectum
+.W
+mesenteric vasculitis
+.I  69
+.B
+70 y o female with left lower quadrant pain
+.W
+diverticulitis, differential diagnosis and management
+.I  70
+.B
+asymptomatic male with elevated LDH and Alkaline phosphatase levels
+.W
+differential diagnosis of elevated alkaline phosphatase and LDH levels
+.I  71
+.B
+27 yo with cystic fibrosis and renal failure
+.W
+cystic fibrosis and renal failure, effect of long term repeated use of aminoglycosides
+.I  72
+.B
+43 y o pt with delerium, hypertension, tachycardia
+.W
+thyrotoxicosis, diagnosis and management
+.I  73
+.B
+23 YO male with alcolol abuse here for TIPS procedure.
+.W
+portal hypertension and varices, management with TIPS procedure
+.I  74
+.B
+43 y o female with fevers, increased CPK
+.W
+neuroleptic malignant syndrome, differential diagnosis, treatment
+.I  75
+.B
+carcinoid tumors of the liver and pancreas
+.W
+carcinoid tumors of the liver and pancreas, research, treatments
+.I  76
+.B
+70 y o male with thyrotoxicosis
+.W
+radiation induced thyroiditis, differential diagnosis, management
+.I  77
+.B
+30 y o with dehydration, hyperthermia
+.W
+heat exhaustion, management and pathophysiology
+.I  78
+.B
+42yo bm with hypertension
+.W
+beta blockers and blacks with hypertension, utility
+.I  79
+.B
+25 y o female with anorexia/bulimia
+.W
+complications and management of anorexia and bulimia
+.I  80
+.B
+adrenal mass
+.W
+adrenal mass, how to work up
+.I  81
+.B
+48 y o with culture negative endocarditis suspected
+.W
+culture negative endocarditis, organisms, diagnosis, treatment
+.I  82
+.B
+24 y o with HIV
+.W
+aids dementia, workup
+.I  83
+.B
+patient s/p renal transplant with fever
+.W
+infections in renal transplant patients
+.I  84
+.B
+50 year old with copd
+.W
+theophylline uses--chronic and acute asthma
+.I  85
+.B
+54 y o male with recurrent LE cellulitis
+.W
+recurrent cellulitis, risk factors, management, prophylaxis
+.I  86
+.B
+40 year old white female with rash, pulmonary infiltrates on cephalosporin
+.W
+cephalosporins and pulmonary infiltrates
+.I  87
+.B
+thyoird stimluating hormone increased
+.W
+is increased thyoird stimluating hormone associated with sick euthyroid syndrome
+.I  88
+.B
+lung cancer
+.W
+lung cancer, radiation therapy
+.I  89
+.B
+60 year old with lung abscess
+.W
+surgery vs. percutaneous drainage for lung abscess
+.I  90
+.B
+30 year old female with paroxysmal anaphylaxis
+.W
+Catamenorrheal Anaphylaxis
+.I  91
+.B
+64 yo male with possible Guillian- Barre syndrome
+.W
+PLASMAPHORESIS AS THERAPUETIC OPTION for Guillian- Barre syndrome
+.I  92
+.B
+66 year old male with Guillain-Barre syndrome
+.W
+Guillain-Barre syndrome, Sensitivity and specificity of nerve conduction velocity tests
+.I  93
+.B
+42 y o w f with left lower extremity deep venous thrombosis
+.W
+allergic reaction to coumadin, treatment
+.I  94
+.B
+23 YO W DYSURIA
+.W
+Urinary Tract Infection, CRITERIA FOR TREATMENT AND ADMISSION
+.I  95
+.B
+60 yo man with severe malabsorption
+.W
+infiltrative small bowel processes, information about small bowel lymphoma and heavy alpha chain disease
+.I  96
+.B
+41 yo w f here for new visit healthy otherwise
+.W
+preventive health care for the adult patient
+.I  97
+.B
+anemia
+.W
+iron deficiency anemia, which test is best
+.I  98
+.B
+26 yo woman with mid-thoracic back pain
+.W
+scheurmann's disease, treatment
+.I  99
+.B
+genaral health checkup
+.W
+sigmoidoscopy in preventive care, whether the reccommended frequency of sigmoidoscopy is effective and sensitive in detecting cancer
+.I  100
+.B
+32 yo schizophrenic patient with peripheral neuropathy
+.W
+association of neuroleptics and peripheral neuropathy
+.I  101
+.B
+back pain
+.W
+back pain-mri sensitivity etc., in comparison to ct of lumbar spine
+.I  102
+.B
+86 yo asian f with back pain and hip pain
+.W
+how to best control pain and debilitation secondary to osteoporosis in never treated advanced disease
+.I  103
+.B
+50 yo woman with breakthrough vaginal bleeding while on estrogen and progesterone therapy
+.W
+differential diagnosis of breakthrough vaginal bleeding while on estrogen and progesterone therapy
+.I  104
+.B
+50 yo diabetic with peripheral neuropathy
+.W
+use of Trental for neuropathy, does it work?
+.I  105
+.B
+68 yo woman with anemia of chronic illness
+.W
+review of anemia of chronic illness
+.I  106
+.B
+42 yo w/HIV and diarrhea
+.W
+HIV and the GI tract, recent reviews
