@@ -335,7 +335,7 @@ void insertDocID(FILE *postingsFilePtr, Cur_Doc_Dict_node node, int *lineNo, cha
 Term_Docs_Node storePostings(Term_Docs_Node node, FILE *termsFilePtr) {
     Doc_StatsNode tmp;
     if (node == NULL) {
-        return;
+        return NULL;
     }
     storePostings(node->left, termsFilePtr);
     //printf("%s %d %d %d\n", node->term, node->termID, node->tf, node->df);getchar();
@@ -372,7 +372,7 @@ void storeDocuments(DocLL node, FILE *docsFilePtr) {
 
 Dict_node storeTerms(Dict_node node, FILE *termsFilePtr) {
     if (node == NULL) {
-        return;
+        return NULL;
     }
     storeTerms(node->left, termsFilePtr);
     fprintf(termsFilePtr, "%s %d %d %d\n", node->term, node->termID, node->tf, node->df);
