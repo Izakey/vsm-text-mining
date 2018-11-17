@@ -1,1 +1,1 @@
-This project is about the using the Vector Space Model to mine the best information out of Text files. The ohsumed Medical data is used for testing which algorithms best mine text.
+This project uses the Vector Space Model (VSM) to mine information out of the OHSUMED text dataset. The OHSUMED dataset is a collection of over 348,000 entries from an online medical information database with each entry consisting of titles, abstracts, indexing terms, author, source and publication type
